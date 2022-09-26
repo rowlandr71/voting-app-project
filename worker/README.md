@@ -7,3 +7,5 @@ Expected behaviour: The build is initiated after the commit.
 Tracing my error and where I encountered problem.
 
 I'm still pushing
+
+Trying another method
