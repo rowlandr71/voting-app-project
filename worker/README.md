@@ -9,3 +9,5 @@ Tracing my error and where I encountered problem.
 I'm still pushing
 
 Trying another method
+
+I might as well found a solution.let see how it works.
